@@ -1,2 +1,2 @@
 # The-NewsFeed
-Simple Website Design using Basic HTML and CSS
+Simple Web Page using Basic HTML and CSS
